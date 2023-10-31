@@ -16,7 +16,7 @@
 ##### - Model Training and Validation: Train the selected model on the dataset, utilizing appropriate techniques to ensure generalizability.
 ##### - Performance Evaluation : Access the model's performance using relevant evaluation metrics such as accuracy, r2_score, precision, recall and F1-score to measure its predictive capability effectively.
 
-### In conclusion, our classification model successfully predicts the value of the 'Type' column, which categorizes entries into either 'Fixed Price' (0) or 'Hourly Rate' (1) categories. The model's performance demonstrates its capability to effectively distinguish between these two pricing structures. This predictive capability holds significant value for decision-making processes, offering insights into whether a project follows a fixed or hourly pricing model.
+#### In conclusion, For the Final Question : our classification model successfully predicts the value of the 'Type' column, which categorizes entries into either 'Fixed Price' (0) or 'Hourly Rate' (1) categories. The model's performance demonstrates its capability to effectively distinguish between these two pricing structures. This predictive capability holds significant value for decision-making processes, offering insights into whether a project follows a fixed or hourly pricing model.
 #### The models evaluated are Logistic Regression, Decision Trees, Random Forest, Bagging, Adaboost, GradientBoosting, XGBoost,Support Vector Machines (SVM), KNearestNeighbors, NaiveBayesGaussian.
 #### Accuracy Score for Training : 0.9985239852398524
 #### Accuracy Score for Testing : 0.9508116084604034
