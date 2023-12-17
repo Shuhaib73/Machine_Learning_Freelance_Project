@@ -1,6 +1,6 @@
-# Data-Driven Insights from PeoplePerHour[freelance marketplace] A Machine Learning Approach
+## Data-Driven Insights from PeoplePerHour[freelance marketplace] A Machine Learning Approach
 
-## Problem Statement:
+### Problem Statement:
 
 ##### - In this project, we aim to use data analysis and machine learning to uncover valuable information from a dataset obtained from PeoplePerHour, a freelance marketplace.
 ##### - The dataset contains various details about freelance projects, including project descriptions, budgets, project categories, and more. Our main goals are to:
