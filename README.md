@@ -1,5 +1,7 @@
 ## Data-Driven Insights from PeoplePerHour[freelance marketplace] A Machine Learning Approach
-
+<p align='center'>
+    <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/PeoplePerhour-img.png' />
+</p>
 ### Problem Statement:
 
 ##### - In this project, we aim to use data analysis and machine learning to uncover valuable information from a dataset obtained from PeoplePerHour, a freelance marketplace.
